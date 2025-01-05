@@ -1,0 +1,13 @@
+npm i bcryptjs cookie-parser cors dotenv express ioredis jsonwebtoken mongoose ts-node-dev @types/bcryptjs @types/cookie-parser @types/cors @types/express @types/jsonwebtoken @types/nod typscript
+1:00:00hours
+1 04 24
+mongodb
+csrafsan700
+ppk7CR04LMdYqi4y
+
+rm tsconfig.json
+npx tsc --init
+
+2:46:15 sec
+
+
